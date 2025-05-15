@@ -1,0 +1,42 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Design User Interface",
+      "description": "Create wireframes and mockups for the dashboard",
+      "status": "To Do",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Implement Drag and Drop",
+      "description": "Add drag and drop functionality using react-beautiful-dnd",
+      "status": "To Do",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Write Documentation",
+      "description": "Create README and API documentation",
+      "status": "In Progress",
+      "completed": false
+    },
+    {
+      "title": "ass",
+      "status": "In Progress",
+      "id": 4,
+      "completed": true
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "status": "Done",
+      "id": 5
+    },
+    {
+      "title": "test2",
+      "status": "Done",
+      "id": 6
+    }
+  ]
+}
